@@ -1,0 +1,39 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+/*Start your code from here */
+
+#myCarousel
+{
+    background:linear-gradient(#087BFF,#07EEFE)
+    
+}
+#myCraousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+#myCarousel2
+{
+     background:linear-gradient(#07EEFE,#FFFFFF)
+}
+#myCraousel2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
